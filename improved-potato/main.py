@@ -15,6 +15,15 @@ class Tick(BaseModel):
     low : float
     close : float
     volume : float
+    close_1 : float
+    close_2 : float
+    close_3 : float
+    close_4 : float
+    close_5 : float
+    close_6 : float
+    close_7 : float
+    close_8 : float
+    close_9 : float
     offset_1 : float
     offset_2 : float
     offset_3 : float
